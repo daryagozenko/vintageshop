@@ -1696,7 +1696,7 @@ legend {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("../image/vintage.jpg")
+  background: url("../images/vintage.jpg")
     center no-repeat;
 }
 .glass span {
