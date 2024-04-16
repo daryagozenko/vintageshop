@@ -1696,7 +1696,7 @@ legend {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("../images/vintage.jpg")
+  background: url("images/vintage.jpg")
     center no-repeat;
 }
 .glass span {
@@ -1722,7 +1722,7 @@ legend {
   left: -50%;
   height: 200%;
   width: 200%;
-  background: url("../images/vintage.jpg")
+  background: url("images/vintage.jpg")
     center no-repeat;
   filter: blur(5px);
   z-index: -1;
