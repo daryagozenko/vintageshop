@@ -350,7 +350,7 @@ main {
 }
 
 .adaptiveGrid .grid-item {
-  background-image: url("images/gridLarge.jpg");
+  background-image: url("../images/gridLarge.jpg");
   background-size: 100% 100%;
   background-size: contain;
   background-position: center;
@@ -361,7 +361,7 @@ main {
 }
 
 .grid-item1 {
-  background-image: url("images/gridItem1.jpg");
+  background-image: url("../images/gridItem1.jpg");
   background-size: 100% 100%;
   background-size: contain;
   background-position: center;
@@ -369,7 +369,7 @@ main {
 }
 
 .grid-item2 {
-  background-image: url("images/gridItem2.jpg");
+  background-image: url("../images/gridItem2.jpg");
   background-size: 100% 100%;
   background-size: contain;
   background-position: center;
@@ -455,19 +455,19 @@ main {
 }
 
 .slide1 {
-  background-image: url("images/photo1.jpg");
+  background-image: url("../images/photo1.jpg");
 }
 .slide2 {
-  background-image: url("images/photo2.jpg");
+  background-image: url("../images/photo2.jpg");
 }
 .slide3 {
-  background-image: url("images/photo3.png");
+  background-image: url("../images/photo3.png");
 }
 .slide4 {
-  background-image: url("/images/photo1.png");
+  background-image: url("../images/photo1.png");
 }
 .slide5 {
-  background-image: url("images/photo2.png");
+  background-image: url("../images/photo2.png");
 }
 
 .wrapper .controls {
